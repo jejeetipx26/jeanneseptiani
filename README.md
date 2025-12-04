@@ -1,58 +1,95 @@
 # jeanneseptiani
+<!-- 🔥 CYBER AESTHETIC BANNER -->
 <div align="center">
-  <h1>Hi, I’m [Your Name] 👋</h1>
-  <p>
-    🔐 Cyber Security Enthusiast  •  🎨 Front End Developer  
-    <br>
-    Secure by design. Aesthetic by default.
-  </p>
+  <img src="https://i.ibb.co/7KQYTwv/cyber-banner.gif" width="100%" alt="banner"/>
+</div>
+
+<br/>
+
+<!-- ✨ NAME + ROLES -->
+<div align="center">
+  <h1 style="font-size: 40px;">✨ Jeanne Septiani ✨</h1>
+  <h3>aka <b>Jeanne</b> • <b>Jeje</b> • <b>jejeetipx26</b></h3>
+  <h3>🔐 Cyber Security | 🎨 Front End Developer</h3>
+  <p><i>Secure by design. Aesthetic by default.</i></p>
 </div>
 
 ---
 
-## 🔭 About Me  
-- I build secure and beautiful web experiences.  
-- Currently exploring: **React**, **Tailwind CSS**, **JavaScript**, and **web security practices**.  
-- Always eager to learn — from bug-hunting to polished UI.
+## 🧬 About Me
+- 🔐 Cyber Security (Web Security, Pentesting, App Hardening)  
+- 🎨 Front End Developer (React, Tailwind, Modern UI/UX)  
+- ⚡ Passion: building beautiful, secure, fast web experiences  
+- 🌙 Favorite Vibes: neon, cyberpunk, dark aesthetic  
+- 📚 Always learning: secure coding, offensive security, advanced front-end  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=000)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+## ⚡ Tech Stack
+<div align="center">
+
+<!-- CORE -->
+<img src="https://img.shields.io/badge/Cyber_Security-0a0f0d?style=for-the-badge&logo=hackthebox&logoColor=01ff84" />
+<img src="https://img.shields.io/badge/Front_End-000000?style=for-the-badge&logo=devdotto&logoColor=ffffff" />
+
+<br/><br/>
+
+<!-- LANGUAGES -->
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=000" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
+
+<br/><br/>
+
+<!-- TOOLS -->
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=fff" />
+<img src="https://img.shields.io/badge/Burp_Suite-f26b1d?style=for-the-badge&logo=burpsuite&logoColor=fff" />
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
+
+</div>
 
 ---
 
-## 📈 GitHub Stats  
-![Your Name’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+## 📊 GitHub Stats
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jejeetipx26&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejeetipx26&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects  
-| Project | Description |
-|--------|-------------|
-| **Project-1** | Web app with secure authentication & responsive UI |
-| **Project-2** | Front-end + security hardened website (XSS/CSRF aware) |
-| **Project-3** | [Demo / Live] + source code available — nice UI + clean code |
+## 🚀 Highlight Projects
+### 🛡 Cyber Security  
+- 🔍 Web Vulnerability Tester (XSS, SQLi, CSRF, IDOR)  
+- 🛡 Secure Login System (JWT, hashing, input sanitizing)  
+- 🕵️ Pentesting mini-labs (Burp, manual testing)
 
-*(Pin the repos above to your profile so they show up on top.)*
+### 🎨 Front End  
+- 🌐 React + Tailwind Dashboard (Premium UI)  
+- 📱 Portfolio aesthetic minimal  
+- ⚡ Custom UI Component Library  
 
----
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/YourProfile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:youremail@example.com)
+> Pin your top repos so visitors langsung lihat karya terbaikmu.
 
 ---
 
-> “Secure by design. Aesthetic by default.”  
->  
-> Crafted with ❤️ by me.  
+## 🌐 Connect With Me
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-b535dc?style=for-the-badge&logo=instagram&logoColor=fff)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](#)
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=fff)](#)
+
+</div>
 
 ---
 
+<div align="center">
+  <br/>
+  ✨ <i>“Secure by design. Aesthetic by default.”</i> ✨  
+  <br/><br/>
+</div>
