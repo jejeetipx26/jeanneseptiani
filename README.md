@@ -61,12 +61,6 @@ I work with tools & concepts like:
 
 ---
 
-## ⚡ GitHub Stats (Premium Style)
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jejeetipx26&show_icons=true&theme=highcontrast&hide_border=true&icon_color=FFD700&title_color=FFD700&text_color=FFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejeetipx26&layout=compact&theme=highcontrast&hide_border=true&title_color=FFD700&text_color=FFF" />
-</p>
-
 ---
 
 <!-- ====== GOLD SIGNATURE ====== -->
